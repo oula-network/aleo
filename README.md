@@ -11,7 +11,7 @@
 ```
 
 
-## Release Notes 🚀 - Version 1.7 Oula Pool Prover
+## Release Notes 🚀 - Version(fe7726a-2024-08-19-1) Oula Pool Prover
 https://github.com/oula-network/aleo/releases/tag/v1.7
 
 We are excited to unveil our latest software release, featuring an innovative multi-GPU solution for Aleo mining, exclusively on the Oula platform. 🎉
