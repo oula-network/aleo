@@ -11,58 +11,43 @@
 ```
 
 
-### 🚀✨Oula Aleo Mining Software v1.9 Mainnet Release
+### 🚀 Oula Aleo Mining Software v1.10 Mainnet Release
 
-We are thrilled to announce the official release of **OULA Aleo Mining Software v1.9**, now meticulously optimized for the Aleo mainnet. This major update delivers remarkable enhancements in both mining efficiency and performance. 🎉
+We are excited to introduce the Oula Aleo Mining Software v1.10 🎉, marking a new era of efficient and seamless mining for Aleo's mainnet. This version brings significant optimizations ⚙️, empowering miners with enhanced performance 💪 and lower resource consumption 🌱. With our relentless focus on innovation 🚀, your mining experience is now more robust than ever. Don’t miss out—upgrade today and experience the future of decentralized computing! 🔥💻
 
-#### Key Highlights:
+ #### 🛠️Key Highlights:
+1. 🧠 Optimized CPU Performance: Mining operations now run with significantly reduced CPU usage, freeing up system resources for smoother multitasking.
 
-1. **Boosted Mining Performance**:
-   - **Single GPU Efficiency**: Achieve up to **1.8M s/s** of computational power per GPU, drastically enhancing performance while minimizing energy consumption. ⚡️
-   - **Reduced Energy Footprint**: Our advanced algorithms now deliver higher power output with a reduced environmental impact. 🌱
+2. ⏩ Enhanced Epoch Efficiency: Block production within each epoch is now faster and more reliable, increasing potential rewards with improved network performance.
 
-2. **Optimized Log Output**:
-   - **Refined Logging Mechanisms**: The updated version features enhanced logging capabilities, providing clearer and more detailed insights into mining operations for superior troubleshooting and performance monitoring. 📊
+3. ⏳ Accelerated Epoch Compilation: Compilation time per epoch has been drastically shortened, ensuring minimal downtime and maximizing mining efficiency.
 
-3. **Stability and Reliability**:
-   - **Bug Fixes**: Resolved various issues from previous versions to ensure a more stable and seamless mining experience. 🔧
-
-We strongly encourage all users to upgrade to v1.9 to benefit from these substantial advancements. As always, your feedback is invaluable to us.
+We deeply appreciate the continued support from our community. Your feedback has been instrumental in shaping these improvements—thank you for being a part of the Oula journey! 🌟
 
 🔗 [Visit our website](https://oula.network) for more details.
-For any questions, feel free to reach out to our [TG community](https://t.me/oulacommunity).
+For any questions, feel free to reach out to our TG community.
 
 👉 HiveOS users, please remember to update your flight sheet installation link for the latest improvements.
-https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.9.tar.gz
+https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.10.tar.gz
 
 📖 [HiveOS Mining Guide](https://oula-faq.gitbook.io/zh/v/en/start-mining/publish-your-docs-1) for detailed instructions.
 
 ---
 
-### 🚀✨Oula Aleo挖矿软件 v1.9 主网版本发布
+### 🚀 Oula Aleo 挖礦軟體 v1.10 主網發布
 
-我们非常高兴地宣布 **OULA Aleo 挖矿软件 v1.9** 的发布，此版本已针对Aleo主网进行了精心优化。此次重大更新在挖矿效率和性能方面带来了显著的提升。🎉
+我們非常興奮地推出 **Oula Aleo 挖礦軟體 v1.10** 🎉，這標誌著 Aleo 主網高效無縫挖礦的新時代。本次版本帶來了重大優化 ⚙️，賦能礦工提升效能 💪 並降低資源消耗 🌱。我們持續專注於創新 🚀，為您帶來更加強大的挖礦體驗。別錯過—立即升級，體驗去中心化運算的未來！🔥💻
 
-#### 主要更新：
+🛠️ 主要更新：
+1. 🧠 **優化 CPU 性能：** 挖礦操作現已顯著降低 CPU 使用率，釋放系統資源，提供更順暢的多任務處理。
+2. ⏩ **提升 Epoch 效率：** 每個 Epoch 的區塊生成速度更快、更可靠，通過改進的網路性能提高潛在收益。
+3. ⏳ **加速 Epoch 編譯：** 每個 Epoch 的編譯時間大幅縮短，確保最小的停機時間，最大化挖礦效能。
 
-1. **增强的挖矿性能**： - **单卡 GPU 效率提升**：每张 GPU 卡的计算能力可高达 **1.8M s/s**，大幅提升性能的同时显著降低能耗。⚡️ 
-   - **降低能源足迹**：我们先进的算法现在提供了更高的功率输出，同时最大限度地降低了对环境的影响。🌱
+我們衷心感謝社群的持續支持。您的反饋對我們改進這些功能至關重要——感謝您成為 Oula 旅程的一部分！🌟
 
-2. **优化的日志输出**：
-   - **精细化日志机制**：新版本增强了日志记录功能，为挖矿操作提供了更清晰、更详细的洞察，便于优化故障排除和性能监控。📊
+🔗 訪問我們的網站 獲取更多詳情。如有任何疑問，歡迎聯繫我們的 TG 社群。
 
-3. **稳定性和可靠性**：
-   - **问题修复**：解决了前版本中的各种问题，以确保挖矿体验更加稳定和流畅。🔧
+👉 HiveOS 用戶，請記得更新您的飛行表安裝連結以獲取最新改進。
+ https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.10.tar.gz
 
-我们强烈建议所有用户更新至v1.9 版本，以便享受这些显著的改进。正如以往，我们非常重视您的反馈。
-
-🔗 [访问我们的网站](https://oula.network)了解更多信息。
-有任何问题，欢迎咨询我们[TG 社群](https://t.me/oulacommunity)。
-
-👉 HiveOS用户，请及时更新飞行表的安装链接以获取最新改进。
-https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.9.tar.gz
-
-📖 [HiveOS挖矿教程](https://oula-faq.gitbook.io/zh/kai-shi-wa-kuang/publish-your-docs-1) 查看详细说明。
-https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.8.1.tar.gz
-
-📖 [HiveOS挖矿教程](https://oula-faq.gitbook.io/zh/kai-shi-wa-kuang/publish-your-docs-1) 查看详细说明。
+📖 HiveOS 挖礦指南 查看詳細操作說明。
