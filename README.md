@@ -51,3 +51,5 @@ https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.10.tar.gz
  https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.10.tar.gz
 
 📖 HiveOS 挖礦指南 查看詳細操作說明。
+![image](https://github.com/user-attachments/assets/037f8bf5-c195-42ea-8a7f-b15360a7395b)
+![image](https://github.com/user-attachments/assets/3b880545-2a74-47da-b9c8-7a745d5cf621)
