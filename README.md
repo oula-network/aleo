@@ -58,5 +58,5 @@ We deeply value the continued support from our dedicated mining community. Your 
 
 📖 如需設置挖礦環境的詳細說明，請參閱我們的 [HiveOS 挖礦指南](https://oula-faq.gitbook.io/zh/v/en/start-mining/publish-your-docs-1)。
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/70f71177-145b-4e8c-acf2-2c8e7810331a)
 
