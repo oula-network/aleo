@@ -57,3 +57,6 @@ We deeply value the continued support from our dedicated mining community. Your 
 [點擊此處下載 v1.11](https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.11.tar.gz)
 
 📖 如需設置挖礦環境的詳細說明，請參閱我們的 [HiveOS 挖礦指南](https://oula-faq.gitbook.io/zh/v/en/start-mining/publish-your-docs-1)。
+
+![Uploading image.png…]()
+
