@@ -30,6 +30,7 @@ At Oula, we are committed to driving innovation in mining technology. This relea
 [Download v1.15 here](https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.15.tar.gz)
 
 📖 Need setup assistance? Check out our updated [HiveOS Mining Guide](https://oula-faq.gitbook.io/zh/v/en/start-mining/publish-your-docs-1) for step-by-step instructions.
+
 ---
 
 ### 🚀 Oula Aleo Mining Software v1.15 主網發布
