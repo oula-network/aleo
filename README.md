@@ -28,6 +28,7 @@ At Oula, we are committed to driving innovation in mining technology. This relea
 
 👉 HiveOS users, don’t forget to update your flight sheet installation link to unlock all the features of v1.15!  
 [Download v1.15 here](https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.15.tar.gz)
+https://github.com/oula-network/aleo/releases/tag/v1.15
 
 📖 Need setup assistance? Check out our updated [HiveOS Mining Guide](https://oula-faq.gitbook.io/zh/v/en/start-mining/publish-your-docs-1) for step-by-step instructions.
 
@@ -51,5 +52,6 @@ Oula 始終致力於推動挖礦技術的創新，此次更新是基於我們礦
 
 👉 HiveOS 用戶，請務必更新您的飛行表安裝鏈接，以解鎖 v1.15 的所有功能！  
 [點擊下載 v1.15](https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.15.tar.gz)
+https://github.com/oula-network/aleo/releases/tag/v1.15
 
 📖 如需設置幫助，請查看我們更新的 [HiveOS 挖礦指南](https://oula-faq.gitbook.io/zh/v/en/start-mining/publish-your-docs-1)，提供詳細的操作說明。
