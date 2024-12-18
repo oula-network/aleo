@@ -28,7 +28,7 @@ At **Oula**, we are dedicated to continuously improving mining software and supp
 💬 Have questions? Join our active **Telegram** community to connect with fellow miners and receive direct support.
 
 ## 👉 HiveOS users, don’t forget to update your flight sheet installation link to unlock all the features of v1.17!  
-[Download v1.17 for HiveOS](https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.17.tar.gz)
+<span style="background-color: yellow; padding: 5px;">https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.17.tar.gz</span>
 
 ## 📖 Need setup assistance?  
 Check out our updated [HiveOS Mining Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/aleo-hiveos) for step-by-step instructions.
