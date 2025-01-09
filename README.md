@@ -10,43 +10,26 @@
   #####   #####  ####### ##  ##
 ```
 
+🚀✨ Oula Aleo Mining Software v1.18 Mainnet Release  
 
-# 🚀 Oula Aleo Mining Software v1.17 Mainnet Release 🎉
+We are thrilled to announce the official release of **OULA Aleo Mining Software v1.18**, meticulously optimized for the Aleo mainnet. This latest update brings significant enhancements, including a **10% overall hashrate improvement**, ensuring superior mining efficiency and profitability. 🎉  
 
-We are excited to announce the release of **Oula Aleo Mining Software v1.17**! This update brings important optimizations to ensure a more stable and efficient mining experience, including the resolution of memory leak issues that some miners had reported.
+🛠️ Key Highlights:  
 
-Whether you’re a seasoned miner or new to Aleo, v1.17 will help you improve your mining efficiency and ensure smoother, uninterrupted operations, enabling you to maximize your rewards with confidence.
+1. **🚀 10% Overall Hashrate Improvement**:  
+   - Optimized mining algorithms deliver a **10% performance boost**, enabling faster block generation and maximizing profitability across all GPU models.  
 
-<br>
+2. **🔒 Stable and Reliable Performance**:  
+   - Enhanced system stability and compatibility ensure a smoother, more reliable mining experience.  
 
-## 🔧 Key Updates in v1.17:
+We strongly encourage all users to upgrade to v1.18 to take advantage of these substantial improvements. Your feedback continues to be invaluable in shaping the future of Oula Aleo Mining Software.  
 
-- **Memory Leak Fix** 🛠️: Fixed memory leak issues to prevent OOM (Out of Memory) errors on low-memory machines.
-- **Optimized for Low-Memory Systems** ⚡: Enhanced memory management, ensuring smoother operation and stability on devices with limited resources.
-> **Note: Please run the program with root privileges.**
+🔗 [Visit our website](https://oula.network) for more details.
+For any questions, feel free to reach out to our TG community.
 
-<br>
+👉 HiveOS users, please remember to update your flight sheet installation link for the latest improvements.
+https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.18.tar.gz
 
-## 👉 HiveOS Users: Update Your Flight Sheet
+📖 [HiveOS Mining Guide](https://oula-faq.gitbook.io/zh/v/en/start-mining/publish-your-docs-1) for detailed instructions.
 
-To unlock all the features of v1.17, make sure to update your flight sheet installation link:
-
-<span style="background-color: yellow; padding: 5px;">[https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.17.tar.gz](https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.17.tar.gz)</span>
-
-<br>
-
-## 📖 Need Setup Assistance?
-
-Check out our updated [HiveOS Mining Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/aleo-hiveos) for step-by-step instructions.
-
-<br>
-<br>
-
-At **Oula**, we are dedicated to continuously improving mining software and supporting our community. Your feedback has been invaluable, and we remain committed to bringing you the best tools for Aleo blockchain mining.
-<br>
-
-🔗 **[Visit our website](https://oula.network)** for more details and resources.  
-💬 Have questions? Join our active **[Telegram](https://t.me/oulacommunity)** community to connect with fellow miners and receive direct support.
-
-
-
+Let’s unlock the future of decentralized computing together! 🌟  
