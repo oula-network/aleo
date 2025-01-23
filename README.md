@@ -10,26 +10,38 @@
   #####   #####  ####### ##  ##
 ```
 
-🚀✨ Oula Aleo Mining Software v1.18 Mainnet Release  
+# 🚀 Oula Aleo Mining Software v1.19 Mainnet Release 🎉  
 
-We are thrilled to announce the official release of **OULA Aleo Mining Software v1.18**, meticulously optimized for the Aleo mainnet. This latest update brings significant enhancements, including a **10% overall hashrate improvement**, ensuring superior mining efficiency and profitability. 🎉  
+We’re excited to announce **Oula Aleo Mining Software v1.19**, a streamlined update designed to maximize your mining potential! This release introduces a **4% performance boost**, delivering better efficiency and helping you unlock more rewards with your current hardware.  
 
-🛠️ Key Highlights:  
+v1.19 empowers you to mine more efficiently, boosting performance and helping you stay ahead of the competition.
 
-1. **🚀 10% Overall Hashrate Improvement**:  
-   - Optimized mining algorithms deliver a **10% performance boost**, enabling faster block generation and maximizing profitability across all GPU models.  
+<br>
 
-2. **🔒 Stable and Reliable Performance**:  
-   - Enhanced system stability and compatibility ensure a smoother, more reliable mining experience.  
+## 🔧 Key Update in v1.19  
 
-We strongly encourage all users to upgrade to v1.18 to take advantage of these substantial improvements. Your feedback continues to be invaluable in shaping the future of Oula Aleo Mining Software.  
+### ⚡ **4% Performance Boost**  
+- Achieve **higher mining efficiency** with the same setup, giving you a competitive edge and more consistent rewards.  
+<br>
 
-🔗 [Visit our website](https://oula.network) for more details.
-For any questions, feel free to reach out to our TG community.
+## 👉 HiveOS Users: Update Your Flight Sheet
 
-👉 HiveOS users, please remember to update your flight sheet installation link for the latest improvements.
-https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.18.tar.gz
+To unlock all the features of v1.19, make sure to update your flight sheet installation link:
 
-📖 [HiveOS Mining Guide](https://oula-faq.gitbook.io/zh/v/en/start-mining/publish-your-docs-1) for detailed instructions.
+<span style="background-color: yellow; padding: 5px;">[https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.19.tar.gz](https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-v1.19.tar.gz)</span>
 
-Let’s unlock the future of decentralized computing together! 🌟  
+<br>
+
+## 📖 Need Setup Assistance?
+
+Check out our updated [HiveOS Mining Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/aleo-hiveos) for step-by-step instructions.
+
+<br>
+<br>
+
+At **Oula**, we are dedicated to continuously improving mining software and supporting our community. Your feedback has been invaluable, and we remain committed to bringing you the best tools for Aleo blockchain mining.
+<br>
+
+🔗 **[Visit our website](https://oula.network)** for more details and resources.  
+💬 Have questions? Join our active **[Telegram](https://t.me/oulacommunity)** community to connect with fellow miners and receive direct support.
+
